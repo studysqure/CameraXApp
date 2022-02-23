@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+
+    <string name="preview_area">Preview Area</string>
+    <string name="take">Take</string>
+
+</resources>
